@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaReveiw.iml" filepath="$PROJECT_DIR$/JavaReveiw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPSJAVABatch11ReviewClass7.iml" filepath="$PROJECT_DIR$/OOPSJAVABatch11ReviewClass7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPSJavaBatch11.iml" filepath="$PROJECT_DIR$/OOPSJavaBatch11.iml" />
+    </modules>
+  </component>
+</project>
